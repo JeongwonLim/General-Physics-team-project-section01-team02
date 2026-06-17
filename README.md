@@ -50,7 +50,7 @@ orbital-escape-project/
 | **Yerin Kwon** | Derivations & Mathematical Layout |
 | **Junghae Kim** | Physical Approximations |
 | **Jieun Yu** | Critical Analysis & Commentary |
-| **Jeongwon Lim** | Contextual Background & Computational Modeling |
+| **Jeongwon Lim** | Contextual Background & Computational Modeling & LaTeX & Github |
 
 ## 5. Reference
 Blanco, P. R., & Mungan, C. E. (2021). "High-speed escape from a circular orbit." *American Journal of Physics*, 89, 72.
