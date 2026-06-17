@@ -24,6 +24,8 @@ Existing complex orbital dynamics are solved through undergraduate-level physics
 
 <div align="center">
 <p><i>Figure: $\Delta v$ efficiency comparison and fuel saving analysis</i></p>
+
+<p><i>Figure: Relative fuel savings of the Oberth and Edelbaum maneuvers compared to Direct Escape, with distinct crossover points identified at $v_\infty / v_0 \approx 0.61$ and $v_\infty / v_0 \approx 1.34$.</i></p>
 </div>
 
 ## 3. Repository Structure
