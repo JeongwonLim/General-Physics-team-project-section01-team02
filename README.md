@@ -6,14 +6,7 @@
 
 **Pedagogical Breakdown and Numerical Verification of Orbital Maneuvers**
 
-<p>
-<a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-3.11-3776AB?logo=python&logoColor=white"></a>
-<img src="https://img.shields.io/badge/NumPy-Computational%20Analysis-4DABCF?logo=numpy&logoColor=white">
-<img src="https://img.shields.io/badge/Matplotlib-Visualization-11557C">
-<img src="https://img.shields.io/badge/LaTeX-Report-008080?logo=latex&logoColor=white">
-</p>
-
-*Team Yerin (Group 2) · DGIST General Physics I*
+Team Yerin (Group 2)
 
 </div>
 
