@@ -28,12 +28,12 @@ Existing complex orbital dynamics are solved through undergraduate-level physics
 
 ## 3. Repository Structure
 orbital-escape-project/
-├-- data/# numerical analysis data
-├── src/
-│   ├-- analysis.py # $\Delta v$ Calculation and Numerical Simulation
-│   └-- plotting.py # Create a paper-style graph
-├-- report/# Project Final Report (PDF)
-└── README.md
+ㅣ-- data/# numerical analysis data
+ㅣ-- src/
+ㅣ  ㅣ-- analysis.py # $\Delta v$ Calculation and Numerical Simulation
+ㅣ  ㅣ-- plotting.py # Create a paper-style graph
+ㅣ-- report/# Project Final Report (PDF)
+ㅣ-- README.md
 
 ## 4. Team Members
 | Name | Role |
