@@ -18,7 +18,7 @@ This project is an in-depth analysis and reconstruction of Philip R. Blanco and 
 Existing complex orbital dynamics are solved through undergraduate-level physics principles (energy conservation, angular momentum conservation) and the fuel efficiency ($\Delta v$) of the three strategies **Direct Escape**, **Oberth Maneuver** and **Edelbaum Maneuver** have been numerically validated.
 
 ## 2. Key Findings
-- **OBERTH EFFECT VERIFY **: IMPULSE APPLICATION DEEP IN GRAVITY FIELD MAXIMIZES FINAL kinetic energy.
+- **OBERTH EFFECT VERIFY**: IMPULSE APPLICATION DEEP IN GRAVITY FIELD MAXIMIZES FINAL kinetic energy.
 - **Data-driven decision**: As a result of our analysis, we have derived a clear boundary value ($\prox 0.61, $1.34), where the optimal strategy depends on the escape rate ($v_{\infty}/v_{2}$).
 - **Edelbaum's edge**: In the area of very high escape velocity, we have visualized that Edelbaum manoeuvres show the most efficient fuel economy.
 
