@@ -34,3 +34,21 @@
 </div>
 
 ## 📂 Repository Structure
+orbital-escape-project/
+├── data/             # 수치 분석 데이터
+├── src/
+│   ├── analysis.py   # $\Delta v$ 계산 및 수치 시뮬레이션
+│   └── plotting.py   # 논문 스타일의 그래프 생성
+├── report/           # 프로젝트 최종 보고서 (PDF)
+└── README.md
+
+## 👥 Team Members
+| Name | Role |
+| :--- | :--- |
+| **Yerin Kwon** | Derivations & Mathematical Layout |
+| **Junghae Kim** | Physical Approximations |
+| **Jieun Yu** | Critical Analysis & Commentary |
+| **Jeongwon Lim** | Contextual Background & Computational Modeling |
+
+## 🔗 Reference
+Blanco, P. R., & Mungan, C. E. (2021). "High-speed escape from a circular orbit." *American Journal of Physics*, 89, 72.
