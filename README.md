@@ -23,7 +23,7 @@ Existing complex orbital dynamics are solved through undergraduate-level physics
 - **Edelbaum's edge**: In the area of very high escape velocity, we have visualized that Edelbaum manoeuvres show the most efficient fuel economy.
 
 <div align="center">
-  !(team%20project%20simulation%20reproduction%20fig1.png)
+![Figure 1: Orbital Escape Efficiency](team%20project%20simulation%20reproduction%20fig1.png)
 <p><i>Figure 1: $\Delta v$ efficiency comparison and fuel saving analysis</i></p>
 
 <p><i>Figure 2: Relative fuel savings of the Oberth and Edelbaum maneuvers compared to Direct Escape, with distinct crossover points identified at $v_\infty / v_0 \approx 0.61$ and $v_\infty / v_0 \approx 1.34$.</i></p>
