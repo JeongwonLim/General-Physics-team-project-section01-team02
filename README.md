@@ -13,9 +13,9 @@ Team Yerin (Group 2)
 ---
 
 ## 1. Overview
-본 프로젝트는 Philip R. Blanco와 Carl E. Mungan의 논문 **"High-speed escape from a circular orbit" (Am. J. Phys. 89, 72, 2021)**를 심층 분석하고 재구성한 연구입니다. 
+This project is an in-depth analysis and reconstruction of Philip R. Blanco and Carl E. Mungan's papers **"High-speed escapes from a circular orbit" (AJP, 89, 72, 2021)**.
 
-기존의 복잡한 궤도 역학을 학부 수준의 물리학 원리(에너지 보존, 각운동량 보존)를 통해 풀어내고, **Direct Escape**, **Oberth Maneuver**, **Edelbaum Maneuver** 세 가지 전략의 연료 효율성($\Delta v$)을 수치적으로 검증하였습니다.
+Existing complex orbital dynamics are solved through undergraduate-level physics principles (energy conservation, angular momentum conservation) and the fuel efficiency ($\Delta v$) of the three strategies **Direct Escape**, **Oberth Maneuver** and **Edelbaum Maneuver** have been numerically validated.
 
 ## 2. Key Findings
 - **Oberth 효과 검증**: 중력장 깊은 곳에서의 임펄스 적용이 최종 운동 에너지를 극대화함을 확인했습니다.
