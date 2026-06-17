@@ -32,7 +32,7 @@ plt.xlim(0.0, 3.0)
 plt.ylim(0.0, 2.3)
 plt.xlabel(r'Final Speed at Infinity ($v_\infty / v_0$)', fontsize=14, fontweight='bold')
 plt.ylabel(r'Total Required Speed Change ($\Delta v / v_0$)', fontsize=14, fontweight='bold')
-plt.title('Figure 2: Delta-V Efficiency of Orbital Escape Strategies', fontsize=16, fontweight='bold', pad=15)
+plt.title('Figure 1: Delta-V Efficiency of Orbital Escape Strategies', fontsize=16, fontweight='bold', pad=15)
 plt.legend(fontsize=12, loc='upper left')
 plt.grid(True, linestyle='--', alpha=0.6)
 
