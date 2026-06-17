@@ -18,21 +18,21 @@ This project is an in-depth analysis and reconstruction of Philip R. Blanco and 
 Existing complex orbital dynamics are solved through undergraduate-level physics principles (energy conservation, angular momentum conservation) and the fuel efficiency ($\Delta v$) of the three strategies **Direct Escape**, **Oberth Maneuver** and **Edelbaum Maneuver** have been numerically validated.
 
 ## 2. Key Findings
-- **Oberth 효과 검증**: 중력장 깊은 곳에서의 임펄스 적용이 최종 운동 에너지를 극대화함을 확인했습니다.
-- **데이터 기반 의사결정**: 분석 결과, 탈출 속도($v_{\infty}/v_{0}$)에 따라 최적의 전략이 달라지는 명확한 경계값($\approx 0.61, 1.34$)을 도출했습니다.
-- **Edelbaum의 우위**: 매우 높은 탈출 속도 영역에서는 Edelbaum 기동이 가장 효율적인 연료 경제성을 보임을 시각화했습니다.
+- **OBERTH EFFECT VERIFY **: IMPULSE APPLICATION DEEP IN GRAVITY FIELD MAXIMIZES FINAL kinetic energy.
+- **Data-driven decision**: As a result of our analysis, we have derived a clear boundary value ($\prox 0.61, $1.34), where the optimal strategy depends on the escape rate ($v_{\infty}/v_{2}$).
+- **Edelbaum's edge**: In the area of very high escape velocity, we have visualized that Edelbaum manoeuvres show the most efficient fuel economy.
 
 <div align="center">
-<p><i>Figure: $\Delta v$ 효율성 비교 및 연료 절감(Fuel Savings) 분석</i></p>
+<p><i>Figure: $\Delta v$ efficiency comparison and fuel saving analysis</i></p>
 </div>
 
 ## 3. Repository Structure
 orbital-escape-project/
-├── data/             # 수치 분석 데이터
+├-- data/# numerical analysis data
 ├── src/
-│   ├── analysis.py   # $\Delta v$ 계산 및 수치 시뮬레이션
-│   └── plotting.py   # 논문 스타일의 그래프 생성
-├── report/           # 프로젝트 최종 보고서 (PDF)
+│   ├-- analysis.py # $\Delta v$ Calculation and Numerical Simulation
+│   └-- plotting.py # Create a paper-style graph
+├-- report/# Project Final Report (PDF)
 └── README.md
 
 ## 4. Team Members
