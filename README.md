@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🛰️ High-Speed Escape from a Circular Orbit
+#High-Speed Escape from a Circular Orbit
 
 **Pedagogical Breakdown and Numerical Verification of Orbital Maneuvers**
 
